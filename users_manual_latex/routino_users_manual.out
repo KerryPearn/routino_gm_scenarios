@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{The functionality of the program}{}% 1
+\BOOKMARK [1][-]{section.2}{Describing the main program: batch\137process\137with\137running\137save.py}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{The main part of this Python program}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{How the code runs in sequence}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Input files to edit to represent your case}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{from\137to.csv}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{uk\137postcodes.csv \(\046 uk\137postcodes\137additional.csv\)}{subsection.2.3}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.3}{profile.xml}{subsection.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Preprocessing stage}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.5}{Find fastest route and output result to results.csv}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Formatting the output file}{}% 11
+\BOOKMARK [1][-]{section.4}{Calibration}{}% 12
+\BOOKMARK [1][-]{section.5}{Using the travel matrix in a geographical modelling project}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Input files}{section.5}% 14
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Input file: activity\137data.csv}{subsection.5.1}% 15
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Input file: time\137min\137pivoted\137results.csv}{subsection.5.1}% 16
+\BOOKMARK [2][-]{subsection.5.2}{Output files}{section.5}% 17
+\BOOKMARK [1][-]{section.6}{Mapping}{}% 18
